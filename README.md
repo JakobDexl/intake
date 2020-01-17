@@ -1,11 +1,11 @@
 # Code
-seminar.py     -- main script for training
-tf_tools.py    -- data pipeline
-eval.py        -- script for evaluating 
-lossmetrics.py -- losses and metrics
-models.py      -- cnn_lstm model
-file_tools.py  -- some path helpers
-load_videos.py -- tool for annotation 
+seminar.py     -- main script for training<br/>
+tf_tools.py    -- data pipeline<br/>
+eval.py        -- script for evaluating<br/>
+lossmetrics.py -- losses and metrics<br/>
+models.py      -- cnn_lstm model<br/>
+file_tools.py  -- some path helpers<br/>
+load_videos.py -- tool for annotation<br/>
 
 
 # DRAFT! ACR Seminar - Multi-Modal Dietary Intake Monitoring of Free-Living Individuals
